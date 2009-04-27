@@ -41,7 +41,7 @@ if ( !empty($withcomments) && !is_single() ) {
 <!--		<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 		<div class="description"><?php bloginfo('description'); ?></div> -->
 	</div>
-    <div class="headerrss"><a href="http://www.twitter.com/wose"><img src="<?php bloginfo('template_url'); ?>/images/twitter32.png" alt="RSS" /></a>
+    <div class="headerrss"><a href="http://www.twitter.com/"><img src="<?php bloginfo('template_url'); ?>/images/twitter32.png" alt="TWITTER" /></a>
     </div>
     <div class="headerrss"><a href="<?php bloginfo('rss2_url'); ?>"><img src="<?php bloginfo('template_url'); ?>/images/rss32.png" alt="RSS" /></a>
     </div>
